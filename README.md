@@ -3,6 +3,10 @@
 ## link de acesso ao nosso site:
 <a href="https://douglascastrosousa.github.io/Gestao_de_veiculos/" target="_blank">Site de gestão de veículos</a>
 
+## Login:
+Usuário: pessoa@gmail.com
+Senha: 123456
+
 ## Trabalho Final
 
 > **Conteúdo:** HTML, CSS, Javascript e Consumo de API
